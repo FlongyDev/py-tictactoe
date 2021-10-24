@@ -1,4 +1,7 @@
 # Пример программы на Python
+## Видео
+[![Видео](https://img.youtube.com/vi/lYeG1FnYwyg/maxresdefault.jpg)](https://youtu.be/lYeG1FnYwyg)
+
 ## Игра крестики-нолики
 - Игровое поле;
 - Ввод позиции;
